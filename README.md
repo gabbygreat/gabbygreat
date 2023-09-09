@@ -28,9 +28,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <b> Link to some live projects</b>
-- **IgboApp** <h5>https://play.google.com/store/apps/details?id=com.pycify.igboapp</h5>
-- **Igbo Calendar** <h5>https://play.google.com/store/apps/details?id=com.pycify.calendar</h5>
-- **Math Quiz**<h5>https://play.google.com/store/apps/details?id=com.pycify.math_quiz</h5>
+- **IgboApp** <h5>https://play.google.com/store/apps/details?id=org.igboapp.edu.igboapp_new</h5>
+- **Igbo Calendar** <h5>https://play.google.com/store/apps/details?org.pycify.calendar</h5>
+- **GP Calculator**<h5>https://play.google.com/store/apps/details?id=com.pycify.gp_calculator</h5>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
