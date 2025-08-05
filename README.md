@@ -18,6 +18,10 @@
 - A passionate developer
 - Loves to learn new tech stuffs
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabbygreat&label=Profile%20views&color=0e75b6&style=flat" alt="GabbyGreat" /> </p> 
+  
+[![wakatime](https://wakatime.com/badge/user/d14e1424-b8f7-4e1c-85da-d87bcc157476.svg)](https://wakatime.com/@d14e1424-b8f7-4e1c-85da-d87bcc157476)
+
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
